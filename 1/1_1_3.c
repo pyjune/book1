@@ -15,6 +15,7 @@ int main(void)
 		for (int i = 0; i < N; i++)
 		{
 			scanf("%d", &arr[i]);
+			// 이 부분에 가장 큰 수를 찾는 코드가 들어간다.
 		}
 	}
 }
